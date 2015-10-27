@@ -1,0 +1,45 @@
+html{
+  padding:0px;
+  margin:0px;
+}
+
+body{
+  font-family:'Neuton';
+  font-weight:300;
+  padding:0px;
+  margin:0px;
+  color:#212121;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -webkit-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+}
+
+
+/* Colors from here: http://www.materialpalette.com/green/deep-orange */
+
+.dark-primary-color    { background: #388E3C; }
+.default-primary-color { background: #4CAF50; }
+.light-primary-color   { background: #C8E6C9; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #FF5722; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #727272; }
+.divider-color         { border-color: #B6B6B6; }
+
+a {
+  color:#FF5722;
+  text-decoration: none;
+ }
+
+.hidden{
+   display:none;
+ }
+
+ .opensans{
+   font-family:'open sans'
+ }
+
+pre{
+  word-wrap: break-word; 
+}
